@@ -11,7 +11,7 @@ import SwiftUI
 struct LineAndBarExerciseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SanitizerLineGraphView()
         }
     }
 }
